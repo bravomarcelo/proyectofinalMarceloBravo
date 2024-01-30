@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "nombre": "Samsung Galaxy S23 Ultra",
+        "precio": 80000,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_799456-MLU72675206798_112023-F.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Motorola Edge 30 fusion",
+        "precio": 100000,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_684994-MLU72892501584_112023-F.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Xiaomi Redmi 13C",
+        "precio": 150000,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_780144-MLA72668121499_112023-F.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Apple iPhone 14 Pro Max",
+        "precio": 200000,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_605126-MLM51559383638_092022-F.webp",
+        "cantidad": 1
+    }
+    
+]
